@@ -1,0 +1,10 @@
+pandas
+openpyxl
+xlrd
+numpy
+jupyterlab
+tqdm
+gymnasium
+stable-baselines3
+snappy
+spherogram
