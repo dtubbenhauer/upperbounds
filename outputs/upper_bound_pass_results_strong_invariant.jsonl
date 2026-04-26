@@ -1,0 +1,4 @@
+{"row_index": 6161, "knot": "13a_3184", "old_lower": 1, "old_upper": 3, "new_upper": 3, "improved": false, "tried_flip_runs": 48, "matched_flip_runs": 0, "evidence": null}
+{"row_index": 6189, "knot": "13a_3212", "old_lower": 3, "old_upper": 4, "new_upper": 4, "improved": false, "tried_flip_runs": 51, "matched_flip_runs": 0, "evidence": null}
+{"row_index": 6213, "knot": "13a_3236", "old_lower": 1, "old_upper": 3, "new_upper": 3, "improved": false, "tried_flip_runs": 46, "matched_flip_runs": 0, "evidence": null}
+{"row_index": 6245, "knot": "13a_3268", "old_lower": 1, "old_upper": 3, "new_upper": 3, "improved": false, "tried_flip_runs": 46, "matched_flip_runs": 0, "evidence": null}
