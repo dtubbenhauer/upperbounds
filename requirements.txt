@@ -8,3 +8,4 @@ gymnasium
 stable-baselines3
 snappy
 spherogram
+boto3
