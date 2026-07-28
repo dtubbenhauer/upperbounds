@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "upperbounds"
+version = "0.1.0"
+description = "RL-based tools for improving upper bounds on unknotting numbers."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cypari",
+    "FXrays",
+    "gcsfs",
+    "gymnasium",
+    "jupyterlab",
+    "low_index",
+    "matplotlib",
+    "networkx",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "pillow",
+    "plink",
+    "snappy",
+    "snappy_manifolds",
+    "spherogram",
+    "stable-baselines3",
+    "sympy",
+    "torch",
+    "tqdm",
+    "xlrd",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/upperbounds"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

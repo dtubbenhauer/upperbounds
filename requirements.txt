@@ -22,6 +22,5 @@ snappy-manifolds
 plink
 low-index
 FXrays
-snappy
-openpyxl
 sympy
+gcsfs

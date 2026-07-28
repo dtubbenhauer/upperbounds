@@ -52,7 +52,14 @@ The notebook
 
 ## Quick start
 
-Create an environment and install dependencies:
+Create an environment and install dependencies with uv:
+
+```bash
+uv sync
+uv run jupyter lab
+```
+
+Alternatively, use plain pip:
 
 ```bash
 python -m venv .venv
@@ -71,6 +78,18 @@ and open:
 ```text
 notebooks/upper_bound_unknotting_v6_local.ipynb
 ```
+
+## Checkpoints
+
+Reusable checkpoint helpers live in `src/upperbounds/io/checkpoints.py`.
+By default, they write run-partitioned artifacts under:
+
+```text
+gs://the-unknotters-checkpoints/upperbounds/run_date=YYYY-MM-DD/run_id=.../
+```
+
+Override the root with `UPPERBOUNDS_CHECKPOINT_ROOT` for local smoke tests or
+alternate buckets.
 
 ## Model behavior
 
