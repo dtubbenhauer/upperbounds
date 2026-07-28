@@ -22,6 +22,7 @@ dependencies = [
     "pandas",
     "pillow",
     "plink",
+    "pydantic",
     "snappy",
     "snappy_manifolds",
     "spherogram",
