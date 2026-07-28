@@ -1,5 +1,8 @@
 .codex
 .venv
+.env
+.env.*
+!.env.example
 __pycache__/
 .ipynb_checkpoints/
 *.py[cod]
