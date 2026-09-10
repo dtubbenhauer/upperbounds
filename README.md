@@ -127,14 +127,6 @@ Progress is saved at checkpoints and at normal completion. Work since the
 last checkpoint can be lost if the run is interrupted. Give distinct
 experiments different `RUN_LABEL` values.
 
-## References
-
-- [RL unknotter, hard unknots and unknotting number](https://arxiv.org/abs/2603.07955).
-- [KnotInfo: Table of Knot Invariants](https://knotinfo.math.indiana.edu/).
-- [SnapPy](https://snappy.computop.org/), by Culler, Dunfield, Goerner and Weeks; see also the [isometry documentation](https://snappy.computop.org/manifold.html#snappy.Manifold.is_isometric_to).
-- Garoufalidis–Kashaev, *Multivariable knot polynomials from braided Hopf algebras with automorphisms*: [arXiv:2311.11528](https://arxiv.org/abs/2311.11528), [doi:10.4171/PRIMS/62-1-3](https://doi.org/10.4171/PRIMS/62-1-3).
-- Garoufalidis–Li, *Patterns of the V2-polynomial of knots*: [arXiv:2409.03557](https://arxiv.org/abs/2409.03557), [doi:10.1080/10586458.2026.2651081](https://doi.org/10.1080/10586458.2026.2651081).
-
 ## Repository contents
 
 | File or folder | Contents |
@@ -147,4 +139,6 @@ experiments different `RUN_LABEL` values.
 | [results/](results/) | The witness table, certificates, target diagrams and saved checks. |
 | [data/README.md](data/README.md) | Input definitions, the comparison snapshot and search logs. |
 
-The software license is in [LICENSE](LICENSE).
+## Erratum
+
+Empty so far.
