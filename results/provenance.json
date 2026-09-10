@@ -1,0 +1,17 @@
+{
+  "paper": "https://arxiv.org/abs/2603.07955",
+  "knotinfo_snapshot_date": "2026-09-08",
+  "witness_count": 15,
+  "target_witness_count": 14,
+  "search_spherogram_commit": "c49a7d37e7b9ff5ad8f1225f327081a2b2dd95b4",
+  "verification_snappy_version": "3.3.2",
+  "verification_spherogram_version": "2.4.1",
+  "verification_timestamp": "2026-09-10T22:34:48.259119+00:00",
+  "best_model_git_blob": "05a8b5cad4cec4d043191b81a7b83dfb52b23552",
+  "file_sha256": {
+    "data/unknotting.xlsx": "14c8ee6f50ba908c8d3a0e0f856c45ca7be7e2f721a696d64a30424dc0247fde",
+    "data/knotinfo_2026-09-08.xls.zip": "e054075a0d895ea68d081976388f6b8d8177a2c9e167e42f9b91c7880f1a0dcc",
+    "data/search_run.zip": "1e4c898e8dcfadc3aa025b5a1d6dbfdf89531b3c9e838ee774b26600882cf637",
+    "models/best_model.zip": "c54f015d798cbbcfa5bca60c1e52b4be666bfa11c37a1b4cbdf9efbf6b67fe68"
+  }
+}

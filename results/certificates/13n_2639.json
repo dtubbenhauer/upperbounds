@@ -1,0 +1,688 @@
+{
+  "source_archive": "data/search_run.zip",
+  "source_member": "results.jsonl",
+  "source_line_1_based": 5905,
+  "current_workbook_unknotting_number": "[1, 2]",
+  "current_workbook_lower": 1,
+  "current_workbook_upper": 2,
+  "bound_agrees_with_current_workbook": true,
+  "recorded_four_invariant_verification": "complete",
+  "verification_scope": "Crossing-change search evidence; independent checks and target witnesses are recorded in results/verification.json and results/target_witnesses.json.",
+  "result": {
+    "row_index": 10494,
+    "knot": "13n_2639",
+    "old_lower": 1,
+    "old_upper": 3,
+    "new_upper": 2,
+    "improved": true,
+    "unique_flip_trials": 56,
+    "matched_trials": 1,
+    "ppo_trials": 34,
+    "stopped_at_lower_bound": false,
+    "performance": {
+      "jones_computations": 9,
+      "jones_states": 61440,
+      "alexander_computations": 1,
+      "volume_computations": 1,
+      "v2_computations": 1,
+      "pre_rl_reductions": 504,
+      "ppo_runs_avoided_by_identification": 22,
+      "jones_prefilter_rejects": 21,
+      "duplicate_simplified_flips_removed": 448,
+      "jones_cache_hits": 13,
+      "rl_runs": 29,
+      "can_reduce_computations": 29,
+      "rl_steps": 14500,
+      "can_reduce_cache_hits": 14500,
+      "rl_cache_hits": 5
+    },
+    "improvement_evidence": [
+      {
+        "variant_index": 4,
+        "flip_index": 14,
+        "phase": "pre_rl",
+        "matched_upper": 1,
+        "candidate_upper": 2,
+        "rl_success": false,
+        "min_crossings_found": null,
+        "best_pd_crossings": 13,
+        "matched_knots": [
+          {
+            "row_index": 395,
+            "knot": "11a_146",
+            "crossing_number": 11,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 16.2882197281,
+            "v2_digest": "18d8fb412f71ffc4",
+            "canonical_orientation": "direct"
+          }
+        ],
+        "match_audit": {
+          "raw_matches": [
+            {
+              "row_index": 395,
+              "knot": "11a_146",
+              "crossing_number": 11,
+              "lower": 1,
+              "upper": 1,
+              "hyperbolic_volume": 16.2882197281,
+              "v2_digest": "18d8fb412f71ffc4",
+              "canonical_orientation": "direct"
+            }
+          ],
+          "surviving_matches": [
+            {
+              "row_index": 395,
+              "knot": "11a_146",
+              "crossing_number": 11,
+              "lower": 1,
+              "upper": 1,
+              "hyperbolic_volume": 16.2882197281,
+              "v2_digest": "18d8fb412f71ffc4",
+              "canonical_orientation": "direct"
+            }
+          ],
+          "excluded_matches": [],
+          "query_invariants": {
+            "hyperbolic_volume": 16.288219728155422,
+            "volume_solution_type": "all tetrahedra positively oriented",
+            "volume_error": null,
+            "v2_digest": "18d8fb412f71ffc4",
+            "v2_error": null,
+            "absolute_signature": null,
+            "signature_error": null,
+            "four_invariant_verification": "complete"
+          }
+        },
+        "best_pd": [
+          [
+            0,
+            8,
+            1,
+            7
+          ],
+          [
+            2,
+            18,
+            3,
+            17
+          ],
+          [
+            18,
+            4,
+            19,
+            3
+          ],
+          [
+            5,
+            14,
+            6,
+            15
+          ],
+          [
+            13,
+            6,
+            14,
+            7
+          ],
+          [
+            9,
+            20,
+            10,
+            21
+          ],
+          [
+            21,
+            10,
+            22,
+            11
+          ],
+          [
+            11,
+            22,
+            12,
+            23
+          ],
+          [
+            23,
+            12,
+            24,
+            13
+          ],
+          [
+            16,
+            20,
+            17,
+            19
+          ],
+          [
+            25,
+            4,
+            0,
+            5
+          ],
+          [
+            8,
+            2,
+            9,
+            1
+          ],
+          [
+            15,
+            24,
+            16,
+            25
+          ]
+        ],
+        "pd_used": [
+          [
+            6,
+            44,
+            7,
+            43
+          ],
+          [
+            0,
+            18,
+            1,
+            17
+          ],
+          [
+            20,
+            2,
+            21,
+            1
+          ],
+          [
+            7,
+            35,
+            8,
+            34
+          ],
+          [
+            35,
+            11,
+            36,
+            10
+          ],
+          [
+            13,
+            32,
+            14,
+            33
+          ],
+          [
+            29,
+            16,
+            30,
+            17
+          ],
+          [
+            25,
+            38,
+            26,
+            39
+          ],
+          [
+            39,
+            26,
+            40,
+            27
+          ],
+          [
+            27,
+            40,
+            28,
+            41
+          ],
+          [
+            41,
+            28,
+            42,
+            29
+          ],
+          [
+            33,
+            37,
+            34,
+            36
+          ],
+          [
+            37,
+            42,
+            38,
+            43
+          ],
+          [
+            47,
+            12,
+            0,
+            13
+          ],
+          [
+            46,
+            12,
+            47,
+            11
+          ],
+          [
+            8,
+            10,
+            9,
+            9
+          ],
+          [
+            21,
+            2,
+            22,
+            3
+          ],
+          [
+            24,
+            6,
+            25,
+            5
+          ],
+          [
+            44,
+            20,
+            45,
+            19
+          ],
+          [
+            45,
+            18,
+            46,
+            19
+          ],
+          [
+            3,
+            22,
+            4,
+            23
+          ],
+          [
+            4,
+            24,
+            5,
+            23
+          ],
+          [
+            14,
+            32,
+            15,
+            31
+          ],
+          [
+            15,
+            30,
+            16,
+            31
+          ]
+        ],
+        "crossing_flipped": {
+          "index": 14,
+          "quad": [
+            46,
+            12,
+            47,
+            11
+          ]
+        },
+        "jones_vector": [
+          -8,
+          3,
+          -1,
+          3,
+          -7,
+          12,
+          -17,
+          20,
+          -19,
+          18,
+          -13,
+          8,
+          -4,
+          1
+        ],
+        "alexander_polynomial_vector": [
+          6,
+          14,
+          -1,
+          6,
+          -15,
+          25,
+          -29,
+          25,
+          -15,
+          6,
+          -1
+        ]
+      }
+    ],
+    "evidence": {
+      "variant_index": 4,
+      "flip_index": 14,
+      "phase": "pre_rl",
+      "matched_upper": 1,
+      "candidate_upper": 2,
+      "rl_success": false,
+      "min_crossings_found": null,
+      "best_pd_crossings": 13,
+      "matched_knots": [
+        {
+          "row_index": 395,
+          "knot": "11a_146",
+          "crossing_number": 11,
+          "lower": 1,
+          "upper": 1,
+          "hyperbolic_volume": 16.2882197281,
+          "v2_digest": "18d8fb412f71ffc4",
+          "canonical_orientation": "direct"
+        }
+      ],
+      "match_audit": {
+        "raw_matches": [
+          {
+            "row_index": 395,
+            "knot": "11a_146",
+            "crossing_number": 11,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 16.2882197281,
+            "v2_digest": "18d8fb412f71ffc4",
+            "canonical_orientation": "direct"
+          }
+        ],
+        "surviving_matches": [
+          {
+            "row_index": 395,
+            "knot": "11a_146",
+            "crossing_number": 11,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 16.2882197281,
+            "v2_digest": "18d8fb412f71ffc4",
+            "canonical_orientation": "direct"
+          }
+        ],
+        "excluded_matches": [],
+        "query_invariants": {
+          "hyperbolic_volume": 16.288219728155422,
+          "volume_solution_type": "all tetrahedra positively oriented",
+          "volume_error": null,
+          "v2_digest": "18d8fb412f71ffc4",
+          "v2_error": null,
+          "absolute_signature": null,
+          "signature_error": null,
+          "four_invariant_verification": "complete"
+        }
+      },
+      "best_pd": [
+        [
+          0,
+          8,
+          1,
+          7
+        ],
+        [
+          2,
+          18,
+          3,
+          17
+        ],
+        [
+          18,
+          4,
+          19,
+          3
+        ],
+        [
+          5,
+          14,
+          6,
+          15
+        ],
+        [
+          13,
+          6,
+          14,
+          7
+        ],
+        [
+          9,
+          20,
+          10,
+          21
+        ],
+        [
+          21,
+          10,
+          22,
+          11
+        ],
+        [
+          11,
+          22,
+          12,
+          23
+        ],
+        [
+          23,
+          12,
+          24,
+          13
+        ],
+        [
+          16,
+          20,
+          17,
+          19
+        ],
+        [
+          25,
+          4,
+          0,
+          5
+        ],
+        [
+          8,
+          2,
+          9,
+          1
+        ],
+        [
+          15,
+          24,
+          16,
+          25
+        ]
+      ],
+      "pd_used": [
+        [
+          6,
+          44,
+          7,
+          43
+        ],
+        [
+          0,
+          18,
+          1,
+          17
+        ],
+        [
+          20,
+          2,
+          21,
+          1
+        ],
+        [
+          7,
+          35,
+          8,
+          34
+        ],
+        [
+          35,
+          11,
+          36,
+          10
+        ],
+        [
+          13,
+          32,
+          14,
+          33
+        ],
+        [
+          29,
+          16,
+          30,
+          17
+        ],
+        [
+          25,
+          38,
+          26,
+          39
+        ],
+        [
+          39,
+          26,
+          40,
+          27
+        ],
+        [
+          27,
+          40,
+          28,
+          41
+        ],
+        [
+          41,
+          28,
+          42,
+          29
+        ],
+        [
+          33,
+          37,
+          34,
+          36
+        ],
+        [
+          37,
+          42,
+          38,
+          43
+        ],
+        [
+          47,
+          12,
+          0,
+          13
+        ],
+        [
+          46,
+          12,
+          47,
+          11
+        ],
+        [
+          8,
+          10,
+          9,
+          9
+        ],
+        [
+          21,
+          2,
+          22,
+          3
+        ],
+        [
+          24,
+          6,
+          25,
+          5
+        ],
+        [
+          44,
+          20,
+          45,
+          19
+        ],
+        [
+          45,
+          18,
+          46,
+          19
+        ],
+        [
+          3,
+          22,
+          4,
+          23
+        ],
+        [
+          4,
+          24,
+          5,
+          23
+        ],
+        [
+          14,
+          32,
+          15,
+          31
+        ],
+        [
+          15,
+          30,
+          16,
+          31
+        ]
+      ],
+      "crossing_flipped": {
+        "index": 14,
+        "quad": [
+          46,
+          12,
+          47,
+          11
+        ]
+      },
+      "jones_vector": [
+        -8,
+        3,
+        -1,
+        3,
+        -7,
+        12,
+        -17,
+        20,
+        -19,
+        18,
+        -13,
+        8,
+        -4,
+        1
+      ],
+      "alexander_polynomial_vector": [
+        6,
+        14,
+        -1,
+        6,
+        -15,
+        25,
+        -29,
+        25,
+        -15,
+        6,
+        -1
+      ]
+    }
+  }
+}

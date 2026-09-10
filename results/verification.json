@@ -1,0 +1,2538 @@
+{
+  "created_utc": "2026-09-10T22:34:48.259119+00:00",
+  "python_version": "3.12.14",
+  "mode": "ordinary_snappy",
+  "scope": "The 15 source witnesses in bounds.csv and 14 target unknotting witnesses, allowing mirrors; no Sage verified=True mode.",
+  "status": "PASS_WITNESSES",
+  "counts": {
+    "PASS_SUPPORTED": 15
+  },
+  "topology": {
+    "snappy_version": "3.3.2",
+    "spherogram_version": "2.4.1",
+    "targets": {
+      "10_131": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_133": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_23": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_26": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_84": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_91": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "10_95": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "11a_146": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "11a_345": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "11a_77": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "12n_646": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "6_3": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "9_22": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      },
+      "9_27": {
+        "status": "PASS_TARGET",
+        "identification": {
+          "status": "PASS_SNAPPY",
+          "attempt": 0,
+          "meridian_preserving_cusp_maps": [
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -1,
+                  0
+                ],
+                [
+                  0,
+                  -1
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1
+                ]
+              ]
+            ]
+          ]
+        },
+        "crossings_remaining": 0,
+        "total_components": 1,
+        "unlinked_unknot_components": 1
+      }
+    },
+    "sources": [
+      {
+        "knot": "12a_262",
+        "target": "6_3",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_1439",
+        "target": "9_27",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_221",
+        "target": "10_84",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_2251",
+        "target": "11a_77",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_2379",
+        "target": "11a_345",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_2639",
+        "target": "11a_146",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_2809",
+        "target": "9_22",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_2907",
+        "target": "10_133",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_3033",
+        "target": "12n_646",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_3589",
+        "target": "10_131",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_4025",
+        "target": "10_26",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_45",
+        "target": "10_23",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_489",
+        "target": "10_131",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_636",
+        "target": "10_91",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    -1,
+                    0
+                  ],
+                  [
+                    0,
+                    -1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      },
+      {
+        "knot": "13n_80",
+        "target": "10_95",
+        "identifications": {
+          "workbook_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "inflated_pd_to_named_source": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "changed_pd_to_reduced_pd": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          },
+          "reduced_pd_to_named_target": {
+            "status": "PASS_SNAPPY",
+            "attempt": 0,
+            "meridian_preserving_cusp_maps": [
+              [
+                [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    0,
+                    1
+                  ]
+                ]
+              ]
+            ]
+          }
+        },
+        "status": "PASS_SUPPORTED",
+        "supported_upper": 2
+      }
+    ]
+  }
+}

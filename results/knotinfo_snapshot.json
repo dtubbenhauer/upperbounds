@@ -1,0 +1,157 @@
+{
+  "url": "https://raw.githubusercontent.com/knotinfo-org/assets/main/knotinfo_data_complete.xls.zip",
+  "retrieved": "2026-09-08",
+  "sha256": "e054075a0d895ea68d081976388f6b8d8177a2c9e167e42f9b91c7880f1a0dcc",
+  "comparisons": [
+    {
+      "knot": "12a_262",
+      "current_knotinfo_bounds": 2.0,
+      "current_knotinfo_reference": "descriptions/unknotting_number.html#specificknots",
+      "signature": "-2",
+      "algebraic_unknotting": 1.0,
+      "target": "6_3",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_1439",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": 0.0,
+      "algebraic_unknotting": "",
+      "target": "9_27",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_221",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": -2.0,
+      "algebraic_unknotting": "",
+      "target": "10_84",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_2251",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": 2.0,
+      "algebraic_unknotting": "",
+      "target": "11a_77",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_2379",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "11a_345",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_2639",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": 0.0,
+      "algebraic_unknotting": "",
+      "target": "11a_146",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_2809",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "9_22",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_2907",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "10_133",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_3033",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "12n_646",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_3589",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "10_131",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": "descriptions/unknotting_number.html#specificknots"
+    },
+    {
+      "knot": "13n_4025",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": 0.0,
+      "algebraic_unknotting": "",
+      "target": "10_26",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_45",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "10_23",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_489",
+      "current_knotinfo_bounds": 2.0,
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "10_131",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": "descriptions/unknotting_number.html#specificknots"
+    },
+    {
+      "knot": "13n_636",
+      "current_knotinfo_bounds": "[1,3]",
+      "current_knotinfo_reference": "",
+      "signature": 0.0,
+      "algebraic_unknotting": "",
+      "target": "10_91",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    },
+    {
+      "knot": "13n_80",
+      "current_knotinfo_bounds": "[2,3]",
+      "current_knotinfo_reference": "",
+      "signature": -4.0,
+      "algebraic_unknotting": "",
+      "target": "10_95",
+      "target_knotinfo_bounds": 1.0,
+      "target_reference": ""
+    }
+  ]
+}

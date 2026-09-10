@@ -1,0 +1,659 @@
+{
+  "source_archive": "data/search_run.zip",
+  "source_member": "results.jsonl",
+  "source_line_1_based": 6027,
+  "current_workbook_unknotting_number": "[2, 2]",
+  "current_workbook_lower": 2,
+  "current_workbook_upper": 2,
+  "bound_agrees_with_current_workbook": true,
+  "recorded_four_invariant_verification": "complete",
+  "verification_scope": "Crossing-change search evidence; independent checks and target witnesses are recorded in results/verification.json and results/target_witnesses.json.",
+  "result": {
+    "row_index": 10664,
+    "knot": "13n_2809",
+    "old_lower": 2,
+    "old_upper": 3,
+    "new_upper": 2,
+    "improved": true,
+    "unique_flip_trials": 37,
+    "matched_trials": 11,
+    "ppo_trials": 14,
+    "stopped_at_lower_bound": true,
+    "performance": {
+      "jones_computations": 6,
+      "jones_states": 37376,
+      "alexander_computations": 10,
+      "volume_computations": 4,
+      "v2_computations": 4,
+      "volume_cache_hits": 7,
+      "v2_cache_hits": 7,
+      "pre_rl_reductions": 131,
+      "ppo_runs_avoided_by_identification": 22,
+      "jones_prefilter_rejects": 6,
+      "duplicate_simplified_flips_removed": 94,
+      "jones_cache_hits": 17,
+      "alexander_cache_hits": 7,
+      "rl_runs": 14,
+      "can_reduce_computations": 14,
+      "rl_steps": 7000,
+      "can_reduce_cache_hits": 7000,
+      "targets_stopped_at_lower_bound": 1
+    },
+    "improvement_evidence": [
+      {
+        "variant_index": 6,
+        "flip_index": 20,
+        "phase": "pre_rl",
+        "matched_upper": 1,
+        "candidate_upper": 2,
+        "rl_success": false,
+        "min_crossings_found": null,
+        "best_pd_crossings": 10,
+        "matched_knots": [
+          {
+            "row_index": 57,
+            "knot": "9_22",
+            "crossing_number": 9,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 10.6207270212,
+            "v2_digest": "4b951e254cb77b0f",
+            "canonical_orientation": "mirror"
+          }
+        ],
+        "match_audit": {
+          "raw_matches": [
+            {
+              "row_index": 57,
+              "knot": "9_22",
+              "crossing_number": 9,
+              "lower": 1,
+              "upper": 1,
+              "hyperbolic_volume": 10.6207270212,
+              "v2_digest": "4b951e254cb77b0f",
+              "canonical_orientation": "mirror"
+            }
+          ],
+          "surviving_matches": [
+            {
+              "row_index": 57,
+              "knot": "9_22",
+              "crossing_number": 9,
+              "lower": 1,
+              "upper": 1,
+              "hyperbolic_volume": 10.6207270212,
+              "v2_digest": "4b951e254cb77b0f",
+              "canonical_orientation": "mirror"
+            }
+          ],
+          "excluded_matches": [],
+          "query_invariants": {
+            "hyperbolic_volume": 10.62072702123947,
+            "volume_solution_type": "all tetrahedra positively oriented",
+            "volume_error": null,
+            "v2_digest": "4b951e254cb77b0f",
+            "v2_error": null,
+            "absolute_signature": null,
+            "signature_error": null,
+            "four_invariant_verification": "complete"
+          }
+        },
+        "best_pd": [
+          [
+            0,
+            4,
+            1,
+            3
+          ],
+          [
+            10,
+            1,
+            11,
+            2
+          ],
+          [
+            4,
+            12,
+            5,
+            11
+          ],
+          [
+            6,
+            17,
+            7,
+            18
+          ],
+          [
+            16,
+            7,
+            17,
+            8
+          ],
+          [
+            15,
+            13,
+            16,
+            12
+          ],
+          [
+            13,
+            19,
+            14,
+            18
+          ],
+          [
+            19,
+            15,
+            0,
+            14
+          ],
+          [
+            8,
+            6,
+            9,
+            5
+          ],
+          [
+            2,
+            9,
+            3,
+            10
+          ]
+        ],
+        "pd_used": [
+          [
+            4,
+            0,
+            5,
+            49
+          ],
+          [
+            0,
+            18,
+            1,
+            17
+          ],
+          [
+            18,
+            4,
+            19,
+            3
+          ],
+          [
+            5,
+            39,
+            6,
+            38
+          ],
+          [
+            33,
+            8,
+            34,
+            9
+          ],
+          [
+            9,
+            42,
+            10,
+            43
+          ],
+          [
+            35,
+            13,
+            36,
+            12
+          ],
+          [
+            19,
+            37,
+            20,
+            36
+          ],
+          [
+            47,
+            26,
+            48,
+            27
+          ],
+          [
+            27,
+            44,
+            28,
+            45
+          ],
+          [
+            43,
+            32,
+            44,
+            33
+          ],
+          [
+            41,
+            35,
+            42,
+            34
+          ],
+          [
+            37,
+            49,
+            38,
+            48
+          ],
+          [
+            25,
+            29,
+            26,
+            28
+          ],
+          [
+            22,
+            31,
+            23,
+            32
+          ],
+          [
+            23,
+            31,
+            24,
+            30
+          ],
+          [
+            24,
+            29,
+            25,
+            30
+          ],
+          [
+            16,
+            2,
+            17,
+            1
+          ],
+          [
+            13,
+            2,
+            14,
+            3
+          ],
+          [
+            45,
+            47,
+            46,
+            46
+          ],
+          [
+            21,
+            11,
+            22,
+            10
+          ],
+          [
+            20,
+            11,
+            21,
+            12
+          ],
+          [
+            15,
+            15,
+            16,
+            14
+          ],
+          [
+            6,
+            39,
+            7,
+            40
+          ],
+          [
+            7,
+            41,
+            8,
+            40
+          ]
+        ],
+        "crossing_flipped": {
+          "index": 20,
+          "quad": [
+            21,
+            11,
+            22,
+            10
+          ]
+        },
+        "jones_vector": [
+          -3,
+          6,
+          1,
+          -2,
+          4,
+          -6,
+          7,
+          -7,
+          7,
+          -5,
+          3,
+          -1
+        ],
+        "alexander_polynomial_vector": [
+          1,
+          7,
+          1,
+          -5,
+          10,
+          -11,
+          10,
+          -5,
+          1
+        ]
+      }
+    ],
+    "evidence": {
+      "variant_index": 6,
+      "flip_index": 20,
+      "phase": "pre_rl",
+      "matched_upper": 1,
+      "candidate_upper": 2,
+      "rl_success": false,
+      "min_crossings_found": null,
+      "best_pd_crossings": 10,
+      "matched_knots": [
+        {
+          "row_index": 57,
+          "knot": "9_22",
+          "crossing_number": 9,
+          "lower": 1,
+          "upper": 1,
+          "hyperbolic_volume": 10.6207270212,
+          "v2_digest": "4b951e254cb77b0f",
+          "canonical_orientation": "mirror"
+        }
+      ],
+      "match_audit": {
+        "raw_matches": [
+          {
+            "row_index": 57,
+            "knot": "9_22",
+            "crossing_number": 9,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 10.6207270212,
+            "v2_digest": "4b951e254cb77b0f",
+            "canonical_orientation": "mirror"
+          }
+        ],
+        "surviving_matches": [
+          {
+            "row_index": 57,
+            "knot": "9_22",
+            "crossing_number": 9,
+            "lower": 1,
+            "upper": 1,
+            "hyperbolic_volume": 10.6207270212,
+            "v2_digest": "4b951e254cb77b0f",
+            "canonical_orientation": "mirror"
+          }
+        ],
+        "excluded_matches": [],
+        "query_invariants": {
+          "hyperbolic_volume": 10.62072702123947,
+          "volume_solution_type": "all tetrahedra positively oriented",
+          "volume_error": null,
+          "v2_digest": "4b951e254cb77b0f",
+          "v2_error": null,
+          "absolute_signature": null,
+          "signature_error": null,
+          "four_invariant_verification": "complete"
+        }
+      },
+      "best_pd": [
+        [
+          0,
+          4,
+          1,
+          3
+        ],
+        [
+          10,
+          1,
+          11,
+          2
+        ],
+        [
+          4,
+          12,
+          5,
+          11
+        ],
+        [
+          6,
+          17,
+          7,
+          18
+        ],
+        [
+          16,
+          7,
+          17,
+          8
+        ],
+        [
+          15,
+          13,
+          16,
+          12
+        ],
+        [
+          13,
+          19,
+          14,
+          18
+        ],
+        [
+          19,
+          15,
+          0,
+          14
+        ],
+        [
+          8,
+          6,
+          9,
+          5
+        ],
+        [
+          2,
+          9,
+          3,
+          10
+        ]
+      ],
+      "pd_used": [
+        [
+          4,
+          0,
+          5,
+          49
+        ],
+        [
+          0,
+          18,
+          1,
+          17
+        ],
+        [
+          18,
+          4,
+          19,
+          3
+        ],
+        [
+          5,
+          39,
+          6,
+          38
+        ],
+        [
+          33,
+          8,
+          34,
+          9
+        ],
+        [
+          9,
+          42,
+          10,
+          43
+        ],
+        [
+          35,
+          13,
+          36,
+          12
+        ],
+        [
+          19,
+          37,
+          20,
+          36
+        ],
+        [
+          47,
+          26,
+          48,
+          27
+        ],
+        [
+          27,
+          44,
+          28,
+          45
+        ],
+        [
+          43,
+          32,
+          44,
+          33
+        ],
+        [
+          41,
+          35,
+          42,
+          34
+        ],
+        [
+          37,
+          49,
+          38,
+          48
+        ],
+        [
+          25,
+          29,
+          26,
+          28
+        ],
+        [
+          22,
+          31,
+          23,
+          32
+        ],
+        [
+          23,
+          31,
+          24,
+          30
+        ],
+        [
+          24,
+          29,
+          25,
+          30
+        ],
+        [
+          16,
+          2,
+          17,
+          1
+        ],
+        [
+          13,
+          2,
+          14,
+          3
+        ],
+        [
+          45,
+          47,
+          46,
+          46
+        ],
+        [
+          21,
+          11,
+          22,
+          10
+        ],
+        [
+          20,
+          11,
+          21,
+          12
+        ],
+        [
+          15,
+          15,
+          16,
+          14
+        ],
+        [
+          6,
+          39,
+          7,
+          40
+        ],
+        [
+          7,
+          41,
+          8,
+          40
+        ]
+      ],
+      "crossing_flipped": {
+        "index": 20,
+        "quad": [
+          21,
+          11,
+          22,
+          10
+        ]
+      },
+      "jones_vector": [
+        -3,
+        6,
+        1,
+        -2,
+        4,
+        -6,
+        7,
+        -7,
+        7,
+        -5,
+        3,
+        -1
+      ],
+      "alexander_polynomial_vector": [
+        1,
+        7,
+        1,
+        -5,
+        10,
+        -11,
+        10,
+        -5,
+        1
+      ]
+    }
+  }
+}
