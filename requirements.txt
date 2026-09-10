@@ -1,0 +1,27 @@
+# Search dependencies, including the V2-enabled Spherogram revision.
+pandas
+openpyxl
+xlrd
+numpy
+jupyterlab
+tqdm
+gymnasium
+stable-baselines3
+snappy
+spherogram @ git+https://github.com/3-manifolds/Spherogram.git@c49a7d37e7b9ff5ad8f1225f327081a2b2dd95b4
+torch
+typing-extensions
+cloudpickle
+matplotlib
+Pillow
+pyparsing
+cycler
+kiwisolver
+cypari
+networkx
+snappy-manifolds
+plink
+low-index
+FXrays
+sympy
+opt_einsum
